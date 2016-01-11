@@ -9,6 +9,7 @@
                 "id": "2",
                 "internalOnly": false,
                 "returnPolicyUrl": "https://customerservice.macys.com/app/answers/detail/a_id/140",
+                "mobileReturnPolicyUrl": "https://customerservice.macys.com/app/answers/detail/a_id/140",
                 "name": "Macy's"
             }
         ]
