@@ -1,0 +1,299 @@
+{
+"chatEnabled": true,
+"checkoutRetailerConfigurations": {
+"4.9.1": [
+{
+"contactEmail": "help@target.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "3",
+"internalOnly": true,
+"name": "Target",
+"returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+}
+],
+"4.9.2": [
+{
+"contactEmail": "help@target.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "3",
+"internalOnly": true,
+"name": "Target",
+"returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+}
+],
+"4.9.3": [
+{
+"contactEmail": "help@target.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "3",
+"internalOnly": true,
+"name": "Target",
+"returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+},
+{
+"contactEmail": "service@saks.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "7",
+"internalOnly": true,
+"mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+"name": "Saks Fifth Avenue"
+}
+],
+"4.9.4": [
+{
+"contactEmail": "help@target.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "3",
+"internalOnly": true,
+"name": "Target",
+"returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+},
+{
+"contactEmail": "service@saks.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "7",
+"internalOnly": true,
+"mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+"name": "Saks Fifth Avenue"
+}
+],
+"4.9.5": [
+{
+"contactEmail": "help@target.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "3",
+"internalOnly": true,
+"name": "Target",
+"returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+},
+{
+"contactEmail": "service@saks.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "7",
+"internalOnly": true,
+"mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+"name": "Saks Fifth Avenue"
+}
+],
+"4.9.6": [
+{
+"contactEmail": "help@target.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "3",
+"internalOnly": true,
+"name": "Target",
+"returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+},
+{
+"contactEmail": "service@saks.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "7",
+"internalOnly": true,
+"mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+"name": "Saks Fifth Avenue"
+}
+],
+"4.9.7": [
+{
+"contactEmail": "help@target.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "3",
+"internalOnly": true,
+"name": "Target",
+"returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+},
+{
+"contactEmail": "service@saks.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "7",
+"internalOnly": true,
+"mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+"name": "Saks Fifth Avenue"
+}
+],
+"4.9.8": [
+{
+"contactEmail": "help@target.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "3",
+"internalOnly": true,
+"name": "Target",
+"returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+},
+{
+"contactEmail": "service@saks.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "7",
+"internalOnly": true,
+"mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+"name": "Saks Fifth Avenue"
+}
+],
+"4.9.9": [
+{
+"contactEmail": "help@target.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "3",
+"internalOnly": true,
+"name": "Target",
+"returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+},
+{
+"contactEmail": "service@saks.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "7",
+"internalOnly": true,
+"mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+"name": "Saks Fifth Avenue"
+},
+{
+"contactEmail": "customerservice@macys.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "2",
+"internalOnly": false,
+"mobileReturnPolicyUrl": "https://customerservice.macys.com/app/answers/detail/a_id/140",
+"name": "Macy's"
+}
+],
+"5.0.1": [
+{
+"contactEmail": "help@target.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "3",
+"internalOnly": true,
+"name": "Target",
+"returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
+},
+{
+"contactEmail": "service@saks.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "7",
+"internalOnly": true,
+"mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
+"name": "Saks Fifth Avenue"
+},
+{
+"contactEmail": "customerservice@macys.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "2",
+"internalOnly": false,
+"mobileReturnPolicyUrl": "https://customerservice.macys.com/app/answers/detail/a_id/140",
+"name": "Macy's"
+}
+]
+},
+"checkoutRetailerListLabel": {
+"4.9.3": {
+"external": "",
+"internal": "Target and Saks"
+},
+"4.9.4": {
+"external": "",
+"internal": "Target and Saks"
+},
+"4.9.5": {
+"external": "",
+"internal": "Target and Saks"
+},
+"4.9.6": {
+"external": "",
+"internal": "Target and Saks"
+},
+"4.9.7": {
+"external": "",
+"internal": "Target and Saks"
+},
+"4.9.8": {
+"external": "",
+"internal": "Target and Saks"
+},
+"4.9.9": {
+"external": "",
+"internal": "Target and Saks"
+}
+},
+"5.0.1": {
+"external": "",
+"internal": "Target and Saks and Macy's"
+}
+},
+"cosmicPublishableKey": "8e020ede-6e5a-4d26-819d-45da9881cf17",
+"excludedRetailers": [
+"921",
+"1862",
+"133",
+"920",
+"63",
+"53",
+"391",
+"1751",
+"1923",
+"1369",
+"1018",
+"19",
+"25",
+"2195",
+"1944",
+"1304",
+"1369",
+"2344"
+],
+"faq": "https://shopstyle.zendesk.com/hc/en-us",
+"offlineRetailers": [
+"Levi's",
+"Neiman Marcus",
+"Saks Fifth Avenue",
+"Kohl's",
+"JCPenney",
+"Macy's"
+],
+"offlineRetailersConfigurations": [
+{
+"id": "992",
+"name": "Levi's"
+},
+{
+"id": "6",
+"name": "Neiman Marcus"
+},
+{
+"id": "7",
+"name": "Saks Fifth Avenue"
+},
+{
+"id": "133",
+"name": "Kohl's"
+},
+{
+"id": "150",
+"name": "JCPenney"
+},
+{
+"id": "2",
+"name": "Macy's"
+}
+],
+"retailerListLabel": "Target",
+"stripePublishableKey": "pk_live_WhTnRynD8XjG6Pr2x3u1eLI2",
+"userAgentOverrides": {}
+}
