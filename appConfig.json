@@ -178,7 +178,7 @@
 "couponSupported": false,
 "cvvRequired": true,
 "id": "3",
-"internalOnly": true,
+"internalOnly": false,
 "name": "Target",
 "returnPolicyUrl": "https://www-secure.target.com/mobile/spot/contact-us"
 },
@@ -187,7 +187,7 @@
 "couponSupported": false,
 "cvvRequired": true,
 "id": "7",
-"internalOnly": true,
+"internalOnly": false,
 "mobileReturnPolicyUrl": "https://m.saks.com/shipReturnTax.jsp",
 "name": "Saks Fifth Avenue"
 },
@@ -199,6 +199,24 @@
 "internalOnly": false,
 "mobileReturnPolicyUrl": "https://customerservice.macys.com/app/answers/detail/a_id/140",
 "name": "Macy's"
+},
+{
+"contactEmail": "help@warbyparker.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "1536",
+"internalOnly": false,
+"mobileReturnPolicyUrl": "https://www.warbyparker.com/help",
+"name": "Warby Parker"
+},
+{
+"contactEmail": "help@bloomingdales.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "8",
+"internalOnly": false,
+"mobileReturnPolicyUrl": "https://www.customerservice-bloomingdales.com/app/answers/list/c/23",
+"name": "Warby Parker"
 }
 ]
 },
@@ -233,7 +251,7 @@
 },
 "5.0.1": {
 "external": "",
-"internal": "Target and Saks and Macy's"
+"internal": "Target, Saks, Macy's, Bloomingdales and Warby Parker"
 }
 },
 "cosmicPublishableKey": "8e020ede-6e5a-4d26-819d-45da9881cf17",
@@ -264,7 +282,8 @@
 "Saks Fifth Avenue",
 "Kohl's",
 "JCPenney",
-"Macy's"
+"Macy's",
+"Warby Parker"
 ],
 "offlineRetailersConfigurations": [
 {
@@ -290,6 +309,14 @@
 {
 "id": "2",
 "name": "Macy's"
+},
+{
+"id": "1536",
+"name": "Warby Parker"
+},
+{
+"id": "8",
+"name": "Bloomingdales"	
 }
 ],
 "retailerListLabel": "Target",
