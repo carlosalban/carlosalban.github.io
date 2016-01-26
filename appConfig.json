@@ -216,7 +216,7 @@
 "id": "8",
 "internalOnly": false,
 "mobileReturnPolicyUrl": "https://www.customerservice-bloomingdales.com/app/answers/list/c/23",
-"name": "Warby Parker"
+"name": "Bloomingdales"
 }
 ]
 },
@@ -283,6 +283,7 @@
 "Kohl's",
 "JCPenney",
 "Macy's",
+"Bloomingdales",
 "Warby Parker"
 ],
 "offlineRetailersConfigurations": [
