@@ -182,6 +182,17 @@
 "mobileReturnPolicyUrl": "https://customerservice.macys.com/app/answers/detail/a_id/140",
 "name": "Macy's"
 }
+],
+"5.0.2": [
+{
+"contactEmail": "customerservice@macys.com",
+"couponSupported": false,
+"cvvRequired": true,
+"id": "2",
+"internalOnly": false,
+"mobileReturnPolicyUrl": "https://customerservice.macys.com/app/answers/detail/a_id/140",
+"name": "Macy's"
+}
 ]
 },
 "checkoutRetailerListLabel": {
