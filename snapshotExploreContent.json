@@ -1,0 +1,298 @@
+{
+    alternatives =     (
+                {
+            GluKK =             {
+                contentItems =                 (
+                                        {
+                        configuration =                         {
+                            brandID = 8031;
+                            imageID = "Explore-Brand-Kendall-Kylie-Swim-Topshop";
+                            name = Topshop;
+                            queryString = "cat=swimsuits&fl=b8031&sort=Popular";
+                        };
+                        type = Brand;
+                    },
+                                        {
+                        configuration =                         {
+                            productID = 522824901;
+                            subtitle = "The Jackie Gladiator Sandal";
+                            title = "Buckle Up";
+                        };
+                        type = Product;
+                    },
+                                        {
+                        configuration =                         {
+                            productIDs =                             (
+                                518096136,
+                                527773390,
+                                527765933,
+                                527771913,
+                                527773976,
+                                527767849,
+                                527766462,
+                                527773322,
+                                527773712,
+                                527773614,
+                                527773947,
+                                527767467,
+                                527773648,
+                                527767457,
+                                527771944,
+                                527773319
+                            );
+                            subtitle = "Introducing the Kendall + Kylie Swim Collection by Topshop";
+                            title = "Dive In";
+                        };
+                        type = Products;
+                    },
+                                        {
+                        configuration =                         {
+                            brandID = 33088;
+                            imageID = "Explore-Brand-Kendall-Kylie-Pacsun";
+                            name = "Kendall + Kylie";
+                            queryString = "cat=womens-clothes&fl=b33088&fl=r120&sort=Favorite";
+                        };
+                        type = Brand;
+                    },
+                                        {
+                        configuration =                         {
+                            productID = 459692947;
+                            subtitle = "The Classic Sheffield Watch by Daniel Wellington";
+                            title = "As Seen On: Kylie";
+                        };
+                        type = Product;
+                    },
+                                        {
+                        configuration =                         {
+                            excludeRetailers = 1;
+                            queryString = "cat=womens-clothes&fl=b33088&fl=r120&sort=Favorite";
+                            subtitle = "New Arrivals from Pac Sun's Kendall + Kylie Collection";
+                            title = "Bohemian Vibes";
+                        };
+                        type = Products;
+                    },
+                                        {
+                        configuration =                         {
+                            brandID = 31696;
+                            imageID = "Explore-Brand-Kendall-Kylie-PUMA";
+                            name = PUMA;
+                        };
+                        type = Brand;
+                    },
+                                        {
+                        configuration =                         {
+                            productID = 518096136;
+                            subtitle = "Puma x Kylie Fierce Core Sneaker";
+                            title = "So Fierce";
+                        };
+                        type = Product;
+                    },
+                                        {
+                        configuration =                         {
+                            brandID = 32954;
+                            imageID = "Explore-Brand-Kendall-Kylie-Calvin-Klein";
+                            name = "Calvin Klein";
+                        };
+                        type = Brand;
+                    },
+                                        {
+                        configuration =                         {
+                            excludeRetailers = 1;
+                            queryString = "cat=womens-clothes&fl=b103&fl=b104&fl=b16935&fl=c14&fl=c15&fl=c16&fl=r1426&fl=r29&sort=Favorite";
+                            title = "#MyCalvins";
+                        };
+                        type = Products;
+                    },
+                                        {
+                        configuration =                         {
+                            brandID = 14;
+                            imageID = "Explore-Brand-Kendall-Kylie-Adidas-Yeezy-Boost-350";
+                            name = Adidas;
+                        };
+                        type = Brand;
+                    },
+                                        {
+                        configuration =                         {
+                            productID = 496956213;
+                            subtitle = "Yeezy Adidas Originals Bomber Jacket";
+                            title = "As Seen On: Kendall";
+                        };
+                        type = Product;
+                    },
+                                        {
+                        configuration =                         {
+                            excludeRetailers = 1;
+                            queryString = "cat=tees-and-tshirts&fts=vintage+rock+tees&sort=PriceHiLo";
+                            subtitle = "Vintage Tees, Please";
+                            title = "Rock On";
+                        };
+                        type = Products;
+                    },
+                                        {
+                        configuration =                         {
+                            productID = 476067733;
+                            subtitle = "Adidas Superstar Sneaker";
+                            title = "Models Off Duty";
+                        };
+                        type = Product;
+                    }
+                );
+                uuid = "C310ED17-1FD1-4045-A50A-5BCDF02F049E";
+            };
+        }
+    );
+    contentItems =     (
+                {
+            configuration =             {
+                brandID = 955;
+                imageID = "Explore-Brand-Chloe-Faye-SS16";
+                name = Chloe;
+            };
+            type = Brand;
+        },
+            configuration =             {
+                brandID = 4000;
+                imageID = "Explore-Brand-Zimmermann-SS16";
+                name = Zimmermann;
+            };
+            type = Brand;
+        },
+                {
+            configuration =             {
+                productID = 499918435;
+                subtitle = "Summer's It Sandal by Stuart Weitzman";
+                title = "Chic Sandals";
+            };
+            type = Product;
+        },
+                {
+            configuration =             {
+                productIDs =                 (
+                    527769124,
+                    518566726,
+                    508100096,
+                    517948431,
+                    520341983,
+                    494849861,
+                    520067896,
+                    486772859,
+                    508544880,
+                    499407711,
+                    514122229,
+                    504313626,
+                    517486279,
+                    495892094,
+                    522910272,
+                    419687183,
+                    515790759,
+                    458357501,
+                    522098512,
+                    499918435,
+                    497967616
+                );
+                subtitle = "These chic statement pieces are vacation ready";
+                title = "The Getaway";
+            };
+            type = Products;
+        },
+                {
+            configuration =             {
+                brandID = 298;
+                imageID = "Explore-Brand-Joie-White-Dresses-SS16";
+                name = Joie;
+            };
+            type = Brand;
+        },
+                {
+            configuration =             {
+                productID = 522733721;
+                subtitle = "The Cult Favorite: Karen Walker Eyewear";
+                title = "Frame It";
+            };
+            type = Product;
+        },
+                {
+            configuration =             {
+                productIDs =                 (
+                    508647857,
+                    514062648,
+                    517779504,
+                    523477638,
+                    520532206,
+                    520141187,
+                    517501616,
+                    503616612,
+                    517623042,
+                    480169938,
+                    510991928,
+                    518923504,
+                    497394697
+                );
+                subtitle = "With a range of silhouettes from classic to statement, it's time to wear white.";
+                title = "Under $100: The Summer Shade";
+            };
+            type = Products;
+        },
+                {
+            configuration =             {
+                excludeRetailers = 1;
+                queryString = "cat=perfume&fl=b1072&fl=b1377&fl=b1423&fl=b1606&fl=b1847&fl=b2128&fl=b2130&fl=b2208&fl=b31864&fl=b32122&fl=b32402&fl=b32843&fl=b4558&fl=b5500&fl=b837&fl=b936&fl=b955&fl=b957&fl=b994&sort=Popular";
+                subtitle = "The freshest fragrances this season";
+                title = "Summer Notes";
+            };
+            type = Products;
+        },
+                {
+            configuration =             {
+                brandID = 1242;
+                imageID = "Explore-Brand-Gucci-SS16";
+                name = Gucci;
+            };
+            type = Brand;
+        },
+                {
+            configuration =             {
+                productID = 524644697;
+                subtitle = "The newest arrivals from BaubleBar";
+                title = "Necessary Objects";
+            };
+            type = Product;
+        },
+                {
+            configuration =             {
+                excludeRetailers = 1;
+                queryString = "cat=swimsuits&fl=r1512&fl=r1538&fl=r1853&fl=r1903&fl=r2010&fl=r21&fl=r2140&fl=r22&fl=r2238&fl=r2295&fl=r23&fl=r27&fl=r300&fl=r309&fl=r31&fl=r36&fl=r39&fl=r41&fl=r412&fl=r427&fl=r483&fl=r5&fl=r53&fl=r6&fl=r644&fl=r7&fl=r720&fl=r8&fl=r9&sort=Popular";
+                subtitle = "These swim must haves will make a splash this season.";
+                title = "Dive In";
+            };
+            type = Products;
+        }
+    );
+    footerCategoryItems =     (
+                {
+            categoryID = "womens-shoes";
+            imageID = "Explore-Women-Shoes";
+        },
+                {
+            categoryID = handbags;
+            imageID = "Explore-Women-Bags";
+        },
+                {
+            categoryID = dresses;
+            imageID = "Explore-Women-Dresses";
+        },
+                {
+            categoryID = "womens-beauty";
+            imageID = "Explore-Women-Beauty";
+        },
+                {
+            categoryID = jewelry;
+            imageID = "Explore-Women-Jewelry";
+        },
+                {
+            categoryID = "womens-tops";
+            imageID = "Explore-Women-Tops";
+        }
+    );
+    uuid = "0D6F4621-7B89-478C-B158-99C8FD7ED797";
+}
